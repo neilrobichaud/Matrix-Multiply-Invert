@@ -1,9 +1,4 @@
-/*
-Name: Neil Robichaud
-MacID: robichne
-Student Number: 1425566
-Description: Homework assignment 2, rounds to two decimal places
-*/
+/* This program takes matrices as input, multiplies them, and then inverts the product. */
 
 
 public class HWK2 {
